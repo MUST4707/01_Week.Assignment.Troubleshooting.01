@@ -81,9 +81,8 @@ _this is where you will type your code...._
 *If any of the above commands return an error or an unexpected result please return to you code and update to fix the error. Repeat this process over and over until their are no errors*
 
 
-### Submission (Commit)
-
-1. Upload your updated `script.js` to the git by uploading the file or saving the changes you made in the browser.
+### Submission Steps
+1. Upload your `script.js` to the Canvas assignment.
 
 ### Grading Criteria
 
